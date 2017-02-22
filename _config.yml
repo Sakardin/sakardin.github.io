@@ -1,4 +1,6 @@
 name: Sakardin
+title: Sakardin Blog
+description: Strange Blog about anything
 theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
 gems:   jekyll-sitemap

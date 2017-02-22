@@ -2,10 +2,25 @@
 <html>
 	<head>
 		<title>{{ page.title }}</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="#157878">
+		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	</head>
 	<body>
+	<section class="page-header">
+		<h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+		<h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+		{% if site.github.is_project_page %}
+		<a href="https://github.com/sakardin" class="btn">View on GitHub</a>
+		{% endif %}
+		{% if site.show_downloads %}
+		<a href="https://github.com/sakardin" class="btn">Download .zip</a>
+		<a href="https://github.com/sakardin" class="btn">Download .tar.gz</a>
+		{% endif %}
+	</section>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
