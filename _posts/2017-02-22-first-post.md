@@ -1,9 +1,14 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Мой первый пост"
 date: 2014-04-30
 ---
 
-Well. Finally got around to putting this old website together.
-Neat thing about it - powered by [Jekyll](http://jekyllrb.com)
-and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Как говорится "не так страшно как все думают".
+Вот я создат что-то наподобии первого поста и первой страницы.
+Если интерестно всю информацию я взял вот от сюда.
+
+[*Туториал*](http://jmcglone.com/guides/github-pages/)
+
+И плюс ко всему вот тут есть [Markdown](http://packetlife.net/media/library/16/Markdown.pdf)
+что б далеко не ходить.
