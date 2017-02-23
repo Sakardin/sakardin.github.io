@@ -18,14 +18,17 @@ date: 2017-02-23
 
 Дальше выбираем новый проект, ну или старый(если есть какой)
 
-Все мы нутри что дальше?
+Все мы внутри что дальше?
 
 **GRADLE**
 
-File > new > Module > Gradle
+File > New > Module > Gradle
 
+![New Project]({{ site.url }}/pict/New_project.jpg)
 
 указываем GroupID и ArtifactID(надо дополнить инфой про что это конкретно)
+
+![GroupID]({{ site.url }}/pict/GroupID.jpg)
 
 указываем настройки GRADLE(я обычно ставлю три галочки вверху, но потом дополню инфой зачем)
 
@@ -47,18 +50,20 @@ File >Settings > Build > Build Tools > Maven > Repositories
 Итак! Все нормально, все добавленно, значит мы идем на сайт [MAVEN](https://search.maven.org/)
 и вбиваем в поиск то что нам надо ( например Selenium java)
 
-pict
+![Maven1]({{ site.url }}/pict/Maven1.jpg)
 
 выбираем последнюю версию  seleniuma, заходим в Gradle, копируем строчку и вставляем в файл
 build.gradle в dependencies.
 
+![Maven2]({{ site.url }}/pict/Maven2.jpg)
+
 Должно получится что-то типа такого
 
-`dependencies {
+``dependencies {
      testCompile group: 'junit', name: 'junit', version: '4.11'
      compile 'org.seleniumhq.selenium:selenium-java:3.0.1'
 
- }`
+ }``
 
 После того как все сделано надо обновить проект Gradle > Refresh
 
