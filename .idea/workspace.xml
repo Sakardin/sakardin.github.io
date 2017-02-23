@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f46546-44a5-4a8a-9044-89e0655c9bad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/JAVA_HOME.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/PATH.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/consol.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-23-Java-First-step.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-23-Java-First-step.md" afterPath="$PROJECT_DIR$/_posts/2017-02-23-Java-First-step.md" />
     </list>
     <ignored path="sakardin.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +57,8 @@
       <file leaf-file-name="2017-02-23-Java-First-step.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-Java-First-step.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="408">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -773,7 +770,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487690460192</updated>
       <workItem from="1487690461592" duration="301000" />
-      <workItem from="1487757757857" duration="12006000" />
+      <workItem from="1487757757857" duration="12328000" />
     </task>
     <task id="LOCAL-00001" summary="Blog and post">
       <created>1487758246671</created>
@@ -824,11 +821,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487843195921</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="JAVA первые шаги">
+      <created>1487847403133</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487847403133</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12307000" />
+    <option name="totallyTimeSpent" value="12629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
@@ -879,7 +883,8 @@
     <MESSAGE value="первый пост" />
     <MESSAGE value="second post" />
     <MESSAGE value="Remove all" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove all" />
+    <MESSAGE value="JAVA первые шаги" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA первые шаги" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1016,8 +1021,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-Java-First-step.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="408">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>
