@@ -2,5 +2,5 @@ name: Sakardin
 title: Sakardin Blog
 description: Strange Blog about anything
 theme: jekyll-theme-cayman
-permalink: /blog/:year/:month/:day/:title
+permalink: none
 gems:   jekyll-sitemap
