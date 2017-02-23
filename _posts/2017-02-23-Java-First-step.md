@@ -13,16 +13,23 @@ date: 2017-02-23
 2. Запускаем установщик и запоминаем директорию куда она поставилось.
 3. Открываем: Панель основных сведений > Дополнительные параметры > Переменные среды.
 4. Создаем новую переменную JAVA_HOME и в неё добавляем путь куда поставилась JAVA SDK(JDK)
-![JAVA_HOME]({{ site.url }}pict/JAVA_HOME.jpg)
+
+![JAVA_HOME]({{ site.url }}/pict/JAVA_HOME.jpg)
 5. Теперь редактируем PATH
+
 `%JAVA_HOME%\bin`
-![PATH]({{ site.url }}pict/PATH.jpg)
+
+![PATH]({{ site.url }}/pict/PATH.jpg)
 6. Все сохраняем
 7. Запускаем консоль
+
 `where java`
+
 `where javac`
+
 Все должно найтись.
-![consol]({{ site.url }}pict/consol.jpg)
+
+![consol]({{ site.url }}/pict/consol.jpg)
 
 
 Всё просто!!!

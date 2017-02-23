@@ -57,8 +57,8 @@
       <file leaf-file-name="2017-02-23-Java-First-step.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-Java-First-step.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="493">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -770,7 +770,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487690460192</updated>
       <workItem from="1487690461592" duration="301000" />
-      <workItem from="1487757757857" duration="12328000" />
+      <workItem from="1487757757857" duration="12444000" />
     </task>
     <task id="LOCAL-00001" summary="Blog and post">
       <created>1487758246671</created>
@@ -828,11 +828,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487847403133</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="JAVA первые шаги+ картинки">
+      <created>1487847690502</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487847690502</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12629000" />
+    <option name="totallyTimeSpent" value="12745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
@@ -884,7 +891,8 @@
     <MESSAGE value="second post" />
     <MESSAGE value="Remove all" />
     <MESSAGE value="JAVA первые шаги" />
-    <option name="LAST_COMMIT_MESSAGE" value="JAVA первые шаги" />
+    <MESSAGE value="JAVA первые шаги+ картинки" />
+    <option name="LAST_COMMIT_MESSAGE" value="JAVA первые шаги+ картинки" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1021,8 +1029,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-Java-First-step.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="493">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding />
         </state>
       </provider>
