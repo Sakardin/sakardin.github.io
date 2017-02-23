@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f46546-44a5-4a8a-9044-89e0655c9bad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/GroupID.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/Maven1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/Maven2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/New_project.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-23-Java-Selenium-IDEA.md" afterPath="$PROJECT_DIR$/_posts/2017-02-23-Java-Selenium-IDEA.md" />
     </list>
@@ -41,8 +37,8 @@
       <file leaf-file-name="2017-02-23-Java-Selenium-IDEA.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-Java-Selenium-IDEA.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+            <state relative-caret-position="370">
+              <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -733,7 +729,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487690460192</updated>
       <workItem from="1487690461592" duration="301000" />
-      <workItem from="1487757757857" duration="24383000" />
+      <workItem from="1487757757857" duration="24614000" />
     </task>
     <task id="LOCAL-00001" summary="Blog and post">
       <created>1487758246671</created>
@@ -819,11 +815,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487867571281</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2017-02-23-Java-Selenium-IDEA">
+      <created>1487868275817</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1487868275817</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24684000" />
+    <option name="totallyTimeSpent" value="24915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1039,8 +1042,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-02-23-Java-Selenium-IDEA.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
+        <state relative-caret-position="370">
+          <caret line="61" column="7" selection-start-line="61" selection-start-column="7" selection-end-line="61" selection-end-column="7" />
           <folding />
         </state>
       </provider>

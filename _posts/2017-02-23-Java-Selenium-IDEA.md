@@ -59,11 +59,13 @@ build.gradle в dependencies.
 
 Должно получится что-то типа такого
 
-``dependencies {
+```java
+dependencies {
      testCompile group: 'junit', name: 'junit', version: '4.11'
      compile 'org.seleniumhq.selenium:selenium-java:3.0.1'
 
- }``
+ }
+ ```
 
 После того как все сделано надо обновить проект Gradle > Refresh
 
