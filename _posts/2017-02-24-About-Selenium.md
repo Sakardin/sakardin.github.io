@@ -14,23 +14,23 @@ date: 2017-02-24
 
 *надо про это потом написать*
 
-Для того что бы запускать тесты на Селениум, я( по совету друзей)
+Для того что бы запускать тесты на Селениум, я( по совету друзей):
 1. Сделал папку TOOLS на системном диске и прописал её в системной PATH(как с JAVА-ой)
 2. Добавил в эту папку драйвера(ну или вспомогательные исполняемые файлы) для браузером которые я хочу запускать в тестах.
 Взять эти драйвера можно [вот тут](http://www.seleniumhq.org/download/) в разделе *Third Party Browser Drivers*.
 
 Ну а если заморачиватся, то вот ссылки прямые на эти драйвера
-[chromedriver] (https://sites.google.com/a/chromium.org/chromedriver/),
-[geckodriver(Для FireFox)] (https://github.com/mozilla/geckodriver),
-[IEDriverServer (для браузеров IE 7-11)] (http://www.seleniumhq.org/download/),
-[MicrosoftWebDriver (для браузера Edge)] (https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/).
+[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) ,
+[geckodriver(Для FireFox)](https://github.com/mozilla/geckodriver) ,
+[IEDriverServer (для браузеров IE 7-11)](http://www.seleniumhq.org/download/) ,
+[MicrosoftWebDriver (для браузера Edge)](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/).
 
 Ну помимо обычных браузеров есть еще так называемые Ненастоящие браузеры.
-Один из них это [PhantomJS] (https://github.com/detro/ghostdriver) с остальными понка дело не имел.
+Один из них это [PhantomJS](https://github.com/detro/ghostdriver) с остальными понка дело не имел.
 
 *Если что будет допишу ;)*
 
-Ну вот мы добалили все драйвера и у нас установлены все браузеры(глупо пытаться запускать что-то что не усьановленно).
+Ну вот мы добалили все драйвера и у нас установлены все браузеры(глупо пытаться запускать что-то что не установленно).
 
 Переходим к коду:
 Первый мой тест на JAVA выглядел вот так:
