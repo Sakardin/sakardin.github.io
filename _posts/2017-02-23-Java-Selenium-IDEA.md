@@ -57,7 +57,7 @@ build.gradle в dependencies.
 
 ![Maven2]({{ site.url }}/pict/Maven2.jpg)
 
-Должно получится что-то типа такого
+Должно получится что-то типа такого:
 
 ```java
 dependencies {
