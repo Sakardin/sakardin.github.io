@@ -6,10 +6,17 @@ date: 2017-02-24
 
 Сюда буду постить какуюто общую инфу про селениум.
 
-Ну начну пожалуй с того что есть [официальный сайт](http://www.seleniumhq.org/) и [сайт на русском](http://selenium2.ru/).
+## Что такое Selenium?
+
+**Selenium** -- это инструмент для автоматизированного управления браузерами. Наиболее популярной областью применения Selenium
+ является автоматизация тестирования веб-приложений. Однако при помощи Selenium можно (и даже нужно!) автоматизировать
+ любые другие рутинные действия, выполняемые через браузер.
+
+Ну, а начну пожалуй с того что есть [официальный сайт](http://www.seleniumhq.org/) и [сайт на русском](http://selenium2.ru/).
 
 Моё знакомство с Селениум началось с [Selenium IDE](https://addons.mozilla.org/ru/firefox/addon/selenium-ide/),
-что по сути есть плагин для FireFox-а. Но с ним иногда приятно просто считерить и записать тест что бы потом перекинуть
+что по сути есть плагин для FireFox-а,которое позволяет записывать и воспроизводить действия пользователя в браузере.
+ Но с ним иногда приятно просто считерить и записать тест что бы потом перекинуть
 его(тест) в среду разработки и потом с ним делать какие-то махинации.
 
 *надо про это потом написать*
@@ -20,13 +27,13 @@ date: 2017-02-24
 Взять эти драйвера можно [вот тут](http://www.seleniumhq.org/download/) в разделе *Third Party Browser Drivers*.
 
 Ну а если заморачиватся, то вот ссылки прямые на эти драйвера
-[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) ,
-[geckodriver(Для FireFox)](https://github.com/mozilla/geckodriver) ,
-[IEDriverServer (для браузеров IE 7-11)](http://www.seleniumhq.org/download/) ,
+[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/),
+[geckodriver(Для FireFox)](https://github.com/mozilla/geckodriver),
+[IEDriverServer (для браузеров IE 7-11)](http://www.seleniumhq.org/download/),
 [MicrosoftWebDriver (для браузера Edge)](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/).
 
 Ну помимо обычных браузеров есть еще так называемые Ненастоящие браузеры.
-Один из них это [PhantomJS](https://github.com/detro/ghostdriver) с остальными понка дело не имел.
+Один из них это [PhantomJS](https://github.com/detro/ghostdriver) с остальными пока дело не имел.
 
 *Если что будет допишу ;)*
 
