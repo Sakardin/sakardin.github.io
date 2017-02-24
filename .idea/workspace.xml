@@ -47,8 +47,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="408">
+              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -704,7 +704,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487690460192</updated>
       <workItem from="1487690461592" duration="301000" />
-      <workItem from="1487757757857" duration="30067000" />
+      <workItem from="1487757757857" duration="30202000" />
     </task>
     <task id="LOCAL-00001" summary="Blog and post">
       <created>1487758246671</created>
@@ -832,11 +832,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487934473470</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="css edit&#10;">
+      <created>1487940379221</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1487940379221</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30368000" />
+    <option name="totallyTimeSpent" value="30503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
@@ -892,7 +899,8 @@
     <MESSAGE value="about + cv" />
     <MESSAGE value="2017-02-23-Java-Selenium-IDEA" />
     <MESSAGE value="About-Selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="About-Selenium" />
+    <MESSAGE value="css edit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="css edit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1061,8 +1069,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="408">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding />
         </state>
       </provider>
