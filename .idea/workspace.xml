@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f46546-44a5-4a8a-9044-89e0655c9bad" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/locators/1269-Locators_groups_1_0_2.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/locators/1269-Locators_table_1_0_2.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/locators/XPath-1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/locators/XPath-2.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/locators/XSLT-1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/locators/css3-cheat-sheet.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pict/locators/google_button.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2017-02-27-Locators.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-27-Locators.md" afterPath="$PROJECT_DIR$/_posts/2017-02-27-Locators.md" />
     </list>
     <ignored path="sakardin.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,8 +59,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="393">
-                <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+              <first_editor relative-caret-position="238">
+                <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -798,7 +787,7 @@
       <updated>1487690460192</updated>
       <workItem from="1487690461592" duration="301000" />
       <workItem from="1487757757857" duration="32627000" />
-      <workItem from="1488186792912" duration="4373000" />
+      <workItem from="1488186792912" duration="4900000" />
     </task>
     <task id="LOCAL-00001" summary="Blog and post">
       <created>1487758246671</created>
@@ -947,11 +936,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487946042746</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="About locators">
+      <created>1488194916122</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1488194916122</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37301000" />
+    <option name="totallyTimeSpent" value="37828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1008,7 +1004,8 @@
     <MESSAGE value="2017-02-23-Java-Selenium-IDEA" />
     <MESSAGE value="About-Selenium" />
     <MESSAGE value="css edit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="css edit&#10;" />
+    <MESSAGE value="About locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="About locators" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1368,8 +1365,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="393">
-            <caret line="109" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+          <first_editor relative-caret-position="238">
+            <caret line="98" column="8" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="8" />
             <folding />
           </first_editor>
           <second_editor />
