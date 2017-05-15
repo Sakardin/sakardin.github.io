@@ -4,7 +4,6 @@
     <list default="true" id="54f46546-44a5-4a8a-9044-89e0655c9bad" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-02-27-Locators.md" afterPath="$PROJECT_DIR$/_posts/2017-02-27-Locators.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="sakardin.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,8 +59,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="369">
-                <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+              <first_editor relative-caret-position="437">
+                <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -164,8 +163,8 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/_posts/2017-02-23-Java-Selenium-IDEA.md" />
         <option value="$PROJECT_DIR$/_posts/2017-02-24-About-Selenium.md" />
-        <option value="$PROJECT_DIR$/_posts/2017-02-27-Locators.md" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/_posts/2017-02-27-Locators.md" />
       </list>
     </option>
   </component>
@@ -789,7 +788,7 @@
       <workItem from="1487690461592" duration="301000" />
       <workItem from="1487757757857" duration="32627000" />
       <workItem from="1488186792912" duration="10002000" />
-      <workItem from="1494851406190" duration="77000" />
+      <workItem from="1494851406190" duration="280000" />
     </task>
     <task id="LOCAL-00001" summary="Blog and post">
       <created>1487758246671</created>
@@ -994,11 +993,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488198874490</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="About locators insert HTLM pdf">
+      <created>1494851496525</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1494851496525</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43007000" />
+    <option name="totallyTimeSpent" value="43210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1927" y="2" width="1932" height="1045" extended-state="0" />
@@ -1498,8 +1504,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="369">
-            <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <first_editor relative-caret-position="437">
+            <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
